@@ -4,7 +4,24 @@ EduBridge AI – Multimodal AI Assistant for Early Childhood Education
 
 Problem Statement:
 
-Early childhood education involves multiple types of information such as:
+
+
+
+
+
+
+
+
+
+
+
+Early childhood education involves multiple types of information such as:-
+
+
+
+
+
+
 
 - homework notices
 - worksheets
