@@ -7,6 +7,7 @@ Problem Statement:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -22,6 +23,9 @@ Early childhood education involves multiple types of information such as:-
 
 
 
+=======
+Early childhood education involves multiple types of information such as:
+>>>>>>> 5fa0e4a9cc7bd7346b573468a433f0f5482f33ce
 
 - homework notices
 - worksheets
